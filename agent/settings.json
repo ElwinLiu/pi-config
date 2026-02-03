@@ -6,5 +6,8 @@
   "steeringMode": "one-at-a-time",
   "hideThinkingBlock": true,
   "collapseChangelog": false,
-  "theme": "droid"
+  "theme": "droid",
+  "enableSkillCommands": false,
+  "autocompleteMaxVisible": 7,
+  "doubleEscapeAction": "tree"
 }
