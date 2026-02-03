@@ -1,6 +1,9 @@
 # Session files (contain conversation history)
 agent/sessions/
 
+# Auth credentials
+agent/auth.json
+
 # Agent extensions development files
 agent/extensions/*/node_modules/
 agent/extensions/*/dist/
