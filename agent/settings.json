@@ -1,10 +1,10 @@
 {
   "lastChangelogVersion": "0.51.2",
-  "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.2-codex",
+  "defaultProvider": "kimi-coding",
+  "defaultModel": "k2p5",
   "defaultThinkingLevel": "high",
   "steeringMode": "one-at-a-time",
   "hideThinkingBlock": true,
   "collapseChangelog": false,
-  "theme": "claude-code"
+  "theme": "droid"
 }
