@@ -1,0 +1,10 @@
+{
+  "lastChangelogVersion": "0.51.2",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.2-codex",
+  "defaultThinkingLevel": "high",
+  "steeringMode": "one-at-a-time",
+  "hideThinkingBlock": true,
+  "collapseChangelog": false,
+  "theme": "claude-code"
+}
