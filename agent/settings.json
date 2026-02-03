@@ -2,12 +2,18 @@
   "lastChangelogVersion": "0.51.2",
   "defaultProvider": "kimi-coding",
   "defaultModel": "k2p5",
-  "defaultThinkingLevel": "high",
+  "defaultThinkingLevel": "minimal",
   "steeringMode": "one-at-a-time",
   "hideThinkingBlock": true,
   "collapseChangelog": false,
   "theme": "droid",
   "enableSkillCommands": false,
   "autocompleteMaxVisible": 7,
-  "doubleEscapeAction": "tree"
+  "doubleEscapeAction": "fork",
+  "quietStartup": false,
+  "enabledModels": [
+    "kimi-coding/k2p5",
+    "openai-codex/gpt-5.2",
+    "openai-codex/gpt-5.2-codex"
+  ]
 }
