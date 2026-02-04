@@ -20,9 +20,9 @@
     "bgCard": "#1e2122",
     "bgSubtle": "#25282a",
     "userMsgBg": "#1e2122",
-    "toolPendingBg": "#1a1d1e",
-    "toolSuccessBg": "#211F1D",
-    "toolErrorBg": "#2a1f21",
+    "toolPendingBg": "",
+    "toolSuccessBg": "",
+    "toolErrorBg": "",
     "customMsgBg": "#1e2122"
   },
   "colors": {
