@@ -2,7 +2,7 @@
   "lastChangelogVersion": "0.52.6",
   "defaultProvider": "kimi-coding",
   "defaultModel": "k2p5",
-  "defaultThinkingLevel": "high",
+  "defaultThinkingLevel": "medium",
   "steeringMode": "one-at-a-time",
   "hideThinkingBlock": true,
   "collapseChangelog": false,

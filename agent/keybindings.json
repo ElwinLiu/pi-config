@@ -1,3 +1,5 @@
 {
-  "selectModel": []
+  "selectModel": [],
+  "tab": [],
+  "cycleThinkingLevel": ["tab", "shift+tab"]
 }
