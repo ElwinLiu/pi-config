@@ -1,8 +1,8 @@
 {
-  "lastChangelogVersion": "0.52.6",
-  "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.3-codex",
-  "defaultThinkingLevel": "medium",
+  "lastChangelogVersion": "0.52.7",
+  "defaultProvider": "kimi-coding",
+  "defaultModel": "k2p5",
+  "defaultThinkingLevel": "high",
   "steeringMode": "one-at-a-time",
   "hideThinkingBlock": false,
   "collapseChangelog": false,
@@ -15,5 +15,8 @@
     "kimi-coding/k2p5",
     "openai-codex/gpt-5.2",
     "openai-codex/gpt-5.3-codex"
+  ],
+  "extensions": [
+    "+extensions/droid-style/index.ts"
   ]
 }
